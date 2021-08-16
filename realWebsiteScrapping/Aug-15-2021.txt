@@ -1,0 +1,96 @@
+Company Name: msgglobalsolutions
+Skills Required: restapi,spring,java,xml,datastructures,softwareengineering,javadeveloper,fundamentals,softwaredesign,oops,json,junit
+Detailed Description: https://www.timesjobs.com/job-detail/senior-java-developer-msg-global-solutions-bengaluru-bangalore-7-to-10-yrs-jobid-Z3Acs1HOb1hzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: msgglobalsolutions
+Skills Required: sql,odata,database,xpath,java,debugging,springframework,technicalconsultant
+Detailed Description: https://www.timesjobs.com/job-detail/senior-fs-pqm-technical-consultant-msg-global-solutions-bengaluru-bangalore-5-to-8-yrs-jobid-IvA8VkpLomFzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: msgglobalsolutions
+Skills Required: lsmw,informationtechnology,adobeforms,userexits,icm,modulepoolprogramming,enhancements,bapi,brf,bdcs,sap,workflow,datadictionary,implementation,technicalconsultant,sapabap,abap,forms
+Detailed Description: https://www.timesjobs.com/job-detail/sap-fs-cm-technical-consultant-msg-global-solutions-bengaluru-bangalore-3-to-6-yrs-jobid-r7m__SLASH__EFGJ0nJzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: msgglobalsolutions
+Skills Required: webspheremq,spring,java,devops,api,eclipseide,maven,eclipse,soap,docker,git,postgresql,uml,javaee,rest,ibmdb2,systemarchitecture
+Detailed Description: https://www.timesjobs.com/job-detail/java-architect-msg-global-solutions-bengaluru-bangalore-10-to-13-yrs-jobid-jYCu0AvUe4pzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: Gaiangroup
+Skills Required: grunt,javascript,back-endtechnologies
+Detailed Description: https://www.timesjobs.com/job-detail/frontend-architect-gaian-group-hyderabad-secunderabad-4-to-6-yrs-jobid-BUQ__SLASH__psAI03dzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: capgemini
+Skills Required: sap,implementation,sapsecurity,enterpriseresourceplanning,rfc,sapfiori,abap,gateway
+Detailed Description: https://www.timesjobs.com/job-detail/sap-ui5-fiori-consultant-capgemini-mumbai-bengaluru-bangalore-4-to-6-yrs-jobid-0PAF3h9wKjZzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: botvfx(india)privatelimited
+Skills Required: networking,systemadministrator,lan,windowsserver,hardware,networkinfrastructure,proxy,mailserver,configuration,network,administrator,desktop,dhcp,mcitp,infrastructure
+Detailed Description: https://www.timesjobs.com/job-detail/systems-administrator-sr-systems-administrator-bot-vfx-india-private-limited-chennai-4-to-7-yrs-jobid-EC6E2__SLASH__wEqC9zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: ANALYTICSQUOTIENT
+Skills Required: reports,authoring,sql,storedprocedures,databasedesign,crm,sqlserver,writtencommunication
+Detailed Description: https://www.timesjobs.com/job-detail/business-reporting-analyst-analytics-quotient-2-to-3-yrs-jobid-f0dl__PLUS__Mel3b1zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: zffriedrichshafen-itc
+Skills Required: timers,autosar,embeddedc,gpio,EMobility
+Detailed Description: https://www.timesjobs.com/job-detail/technical-lead-low-level-driver-development-e-mobility-zf-friedrichshafen-itc-hyderabad-secunderabad-6-to-9-yrs-jobid-Rz8Xy8EMKR9zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: YashTechnologiesPvtLtd
+Skills Required: km,sap,sapps,implementation,sapproject,security,consultant,infrastructure,businessapplications
+Detailed Description: https://www.timesjobs.com/job-detail/sr-consultant-sap-ps-ppm-yash-technologies-pvt-ltd-hyderabad-secunderabad-bengaluru-bangalore-6-to-9-yrs-jobid-Un__SLASH__i9esz7gJzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: PolarisConsulting&ServicesLtd
+Skills Required: websphere,unixshellscripting,java,j2ee,oracle,weblogic,windows,messaging,consultant,tibcoems,.net,splunk,unix
+Detailed Description: https://www.timesjobs.com/job-detail/consultant-polaris-consulting-services-ltd-chennai-4-to-7-yrs-jobid-xQ4SkSV3L5pzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: VeritasSoftwareTechnologiesIndiaPrivateLimited
+Skills Required: orchestration,storage,devops,debugging,softwareengineer,python,problemsolving,veritas,writtencommunication,csi
+Detailed Description: https://www.timesjobs.com/job-detail/sr-software-engineer-veritas-software-technologies-india-private-limited-pune-5-to-8-yrs-jobid-eo__PLUS__ExjZV5QlzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: ValueLabsLLP
+Skills Required: infrastructure,programmanager,jenkins,jira
+Detailed Description: https://www.timesjobs.com/job-detail/program-manager-valuelabs-llp-10-to-13-yrs-jobid-Vx24XWhGqxtzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: VerizonMedia
+Skills Required: cucumber,testexecution,security,technologymanagement,selenium,jenkins,jira,c,lifecycle,ivr,automationtesting,mobile,ivrtesting,biometrics,agile,voicerecognition,testplancreation
+Detailed Description: https://www.timesjobs.com/job-detail/engr-iii-cslt-full-stack-verizon-media-hyderabad-secunderabad-3-to-7-yrs-jobid-fzu8zhOu5cBzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: VerizonMedia
+Skills Required: orchestration,spring,technologymanagement,cti,mq,messaging,voicerecognition,security,git,debugging,junit,c,ivr,mobile,biometrics,springboot
+Detailed Description: https://www.timesjobs.com/job-detail/sr-engr-cslt-full-stack-verizon-media-hyderabad-secunderabad-0-to-3-yrs-jobid-n__SLASH__lPXTQhlfpzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: VerizonMedia
+Skills Required: soa,ajax,jquery,spring,xml,devops,j2ee,api,rest,junit,c,oracle,maven,unix
+Detailed Description: https://www.timesjobs.com/job-detail/engr-iii-cslt-full-stack-verizon-media-hyderabad-secunderabad-4-to-7-yrs-jobid-7dhDU6KkCTtzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: VerizonMedia
+Skills Required: soa,ajax,docker,spring,oop,xml,devops,j2ee,api,cloudcomputing,junit,c,oracle,maven,mobile,drools,javadeveloper,unix
+Detailed Description: https://www.timesjobs.com/job-detail/senior-java-developer-verizon-media-hyderabad-secunderabad-0-to-3-yrs-jobid-axijKspURvRzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: VerizonMedia
+Skills Required: soa,ajax,docker,spring,oop,xml,devops,j2ee,api,cloudcomputing,junit,oracle,maven,mobile,drools,javadeveloper,unix
+Detailed Description: https://www.timesjobs.com/job-detail/senior-java-developer-verizon-media-chennai-0-to-3-yrs-jobid-logr7jNly__PLUS__9zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: TechFirefly
+Skills Required: c#,.net,webapi,mongodb,visualstudio
+Detailed Description: https://www.timesjobs.com/job-detail/senior-net-c-developer-tech-firefly-0-to-3-yrs-jobid-Tp0JurOPxbFzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: TechFirefly
+Skills Required: c#,san,java,.net,SoftwareDevelopment
+Detailed Description: https://www.timesjobs.com/job-detail/software-development-engineer-in-test-sdet-tech-firefly-chicago-0-to-3-yrs-jobid-RXoYQxffNY5zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: TechFirefly
+Skills Required: applicationsoftware,backup,infrastructure
+Detailed Description: https://www.timesjobs.com/job-detail/system-engineer-tech-firefly-hyderabad-secunderabad-0-to-3-yrs-jobid-zZpvaqHFPAxzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: TeamComputersPvtLtd
+Skills Required: securitycompliance,hosting,programmanagement,storage,problemmanagement,changemanagement,security,pmp,projectplan,programmanager,informationsystemsmanagement,itprojectmanagement,windows,itsm,deliverymanagement,collaboration,transitionmanagement,projectdelivery,supportprogram
+Detailed Description: https://www.timesjobs.com/job-detail/program-manager-team-computers-pvt-ltd-mumbai-delhi-delhi-ncr-10-to-13-yrs-jobid-9rBP5KH9DB1zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: TeamComputersPvtLtd
+Skills Required: datavisualization,statisticaltesting,regression,machinelearningtechniques
+Detailed Description: https://www.timesjobs.com/job-detail/data-scientist-team-computers-pvt-ltd-delhi-delhi-ncr-0-to-3-yrs-jobid-7FPodHREBH1zpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
+Company Name: TeamComputersPvtLtd
+Skills Required: oracle,datareports,qlikview,sql,database,datamodeling,datatransformation,etl,dataintegration
+Detailed Description: https://www.timesjobs.com/job-detail/qlikview-qliksense-developer-team-computers-pvt-ltd-pune-3-to-6-yrs-jobid-r6bKZxnhTwtzpSvf__PLUS__uAgZw==&source=srp
+-------------------------------------------
